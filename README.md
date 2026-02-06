@@ -60,5 +60,13 @@ http://localhost:49242
 - I used ChatGPT as a study assistant to clarify networking concepts and to quiz me.
 - I rewrote the concepts in my own words and practiced solving random levels without relying on external tools.
 
+## Notes
+- **Same subnet**: devices can communicate directly (no router needed).
+- **Default gateway**: where a host sends traffic outside its subnet.
+- **Router**: connects different networks (L3).
+- **Switch**: connects devices in the same LAN (L2).
+
+
 https://medium.com/@imyzf/netpractice-2d2b39b6cf0a
+
 https://42-cursus.gitbook.io/guide/4-rank-04/netpractice/theory
