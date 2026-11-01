@@ -65,8 +65,3 @@ http://localhost:49242
 - **Default gateway**: where a host sends traffic outside its subnet.
 - **Router**: connects different networks (L3).
 - **Switch**: connects devices in the same LAN (L2).
-
-
-https://medium.com/@imyzf/netpractice-2d2b39b6cf0a
-
-https://42-cursus.gitbook.io/guide/4-rank-04/netpractice/theory
